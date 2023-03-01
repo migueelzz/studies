@@ -14,7 +14,7 @@ int main() {
   scanf("%d", &tam);
 
   int vet[tam];
-  float media;
+  int media = 0;
 
   total = 0;
   maior = 0;
